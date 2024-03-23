@@ -67,7 +67,7 @@ function reiniciarJogo() {
 
 
 // comentario teste
-let numerooo = "MUDOU AGUMA COISA";
+//novas mudanças PORRA VCARALHO
 
 
 
