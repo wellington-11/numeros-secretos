@@ -66,6 +66,7 @@ function reiniciarJogo() {
 }
 
 
+// comentario teste
 
 
 
